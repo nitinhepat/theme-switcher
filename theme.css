@@ -1,0 +1,17 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.dark {
+    --bgColor: #161625;
+    --color: white;
+    --headerBg: #161625;
+}
+
+.light {
+    --bgColor: white;
+    --color: black;
+    --headerBg: #E8E8E8;
+}
